@@ -1,4 +1,4 @@
-export const Blogs = [
+export const Project = [
     {
         id:1,
         name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
